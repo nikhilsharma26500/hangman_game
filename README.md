@@ -3,14 +3,15 @@ This is a simple hangman game implemented in Python. The game randomly selects a
 
 ## How to run the game
 1. Clone the repository to your local machine using the command
-'''bash
-git clone https://github.com/@nikhilsharma26500/hangman.git
-'''
+```bash
+git clone https://github.com/@nikhilsharma26500/hangman.git`
+```
+
 2. Navigate to the repository's root directory using the command 
-'''bash
+```bash
 cd hangman
-'''
-3. Run the command '''bash python hangman.py ''' to start the game
+```
+3. Run the command ```bash python hangman.py``` to start the game
 
 ## File Structure
 - **hangman.py** - contains the main game logic and implementation
