@@ -11,7 +11,10 @@ git clone https://github.com/@nikhilsharma26500/hangman.git`
 ```bash
 cd hangman
 ```
-3. Run the command ```bash python hangman.py``` to start the game
+3. Run the following command to start the game
+```bash
+python hangman.py
+```
 
 ## File Structure
 - **hangman.py** - contains the main game logic and implementation
